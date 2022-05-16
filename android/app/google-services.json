@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702629828423",
+    "project_id": "duynguyenfluauth02",
+    "storage_bucket": "duynguyenfluauth02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702629828423:android:a09f07a345ad7f521fde62",
+        "android_client_info": {
+          "package_name": "com.duynguyenflu.sample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702629828423-vrm2srsfe2tecv45udl1ko3o74suirdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiv2hY0hOsuK5yjHwzTbQrafNCA0WBug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702629828423-vrm2srsfe2tecv45udl1ko3o74suirdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
